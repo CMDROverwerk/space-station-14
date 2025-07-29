@@ -148,11 +148,3 @@
   # New
   - Dragon
   - SimpleHostile
-
-- type: npcFaction
-  id: PointDefenseTarget
-
-- type: npcFaction
-  id: PointDefenseWeapon
-  hostile:
-  - PointDefenseTarget
